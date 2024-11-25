@@ -1,0 +1,33 @@
+# Python bytecode files
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+
+
+# SQLite database
+db.sqlite3
+
+# Environment files
+.env
+*.env
+
+# IDE/editor folders and files
+.vscode/
+.idea/
+
+# Virtual environment
+.venv/
+env/
+.env/
+
+# Cache files
+*.log
+*.pot
+*.pyc
+*.pyo
+*.db
+
+# Static and media files (if not handled by version control)
+static/
+media/
